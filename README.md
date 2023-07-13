@@ -15,7 +15,7 @@ Make sure you have the following software installed on your system:
 
 ### Clone the Repository
 
-`git clone <repository_url>`
+`git clone https://github.com/GermanSincovic/devcom-test-task`
 
 ### Build the Project
 
